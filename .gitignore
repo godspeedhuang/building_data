@@ -8,6 +8,7 @@
 *.sbx
 *.cpg
 *.prj
+*.shx
 
 # arcgis系列
 *.gdb
@@ -18,6 +19,7 @@
 
 # tiles3D系列
 *.b3dm
+*.json
 
 # kmz系列
 *.kmz
