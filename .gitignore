@@ -1,0 +1,29 @@
+*.zip
+
+# shp系列
+*.shp
+*.dbf
+*.xml
+*.sbn
+*.sbx
+*.cpg
+*.prj
+
+# arcgis系列
+*.gdb
+*.lyrx
+
+# i3s系列
+*.slpk
+
+# tiles3D系列
+*.b3dm
+
+# kmz系列
+*.kmz
+*.kml
+*.jpg
+*.dae
+
+# Qgis
+*.geojson

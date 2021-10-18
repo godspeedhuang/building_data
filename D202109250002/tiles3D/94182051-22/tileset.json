@@ -1,0 +1,1 @@
+{ "root": { "refine": "REPLACE", "boundingVolume": { "sphere": [-2968568.18328782,5087556.30395719,2438225.96271732,140.035849639019]}, "content": { "uri": "0.b3dm"}, "geometricError": 2.18806015060967}, "geometricError": 21.6370724955489, "asset": { "version": "1.0"}}
